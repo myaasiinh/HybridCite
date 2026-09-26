@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# === large binaries archived to _ARCHIVE_BESAR ===
+*.apk
+*.aab
+*.mp4
+*.mov
+*.avi
+*.zip
+*.h5
+*.keras
+*.pt
+*.tflite
+*.onnx
+*.bin
+*.Trace*.json
+Trace-*.json
+
